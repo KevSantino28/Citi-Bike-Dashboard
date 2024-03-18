@@ -6,3 +6,5 @@ The first phenomenon noticed was how much more the bikes were used by commuters 
 
 If presenting this in front of shareholders, I would recommend scaling back on the number of citi bike’s locations outside of NYC. Looking at the Top 50 Starting Stations Map I created they are all located in Mid-Town around the Flatiron District and just south of Central Park. When viewing the 50 least used Starting locations they mainly reside in Staten Island or North of the city up in Fordham. 
 
+My public tableau dashboard is at the following link.
+https://public.tableau.com/app/profile/kevin.santino/viz/Module18CitiBikeHomework/StartStationMorningCommute?publish=yes
